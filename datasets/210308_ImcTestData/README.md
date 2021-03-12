@@ -19,6 +19,11 @@ The panel for this dataset looks as follows:
 | 2359	      | Eu153	  | YBX1
 |             | Ag107	  | Ag107
 
+## Processing
+
+The raw data was processed using CellProfiler v4.0.7 and Ilastik v1.3.3post3.
+For this, `ImcSegmentationPipeline` v2.0 was used. 
+
 ## Known issues
 
 Channel Pr141 is only detectable in `20210305_NE_mockData1` and `20210305_NE_mockData3`.

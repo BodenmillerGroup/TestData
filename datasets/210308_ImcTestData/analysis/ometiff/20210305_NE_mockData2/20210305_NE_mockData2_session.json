@@ -1,0 +1,1488 @@
+{
+  "id": "10258c2f-0026-4281-a7de-f5c3cf6c9d3c",
+  "name": "20210305_NE_mockData2",
+  "imctools_version": "2.1.4",
+  "created": "2021-03-12T10:10:26.529914+00:00",
+  "metadata": {
+    "Slide": [
+      {
+        "ID": "0",
+        "Description": "Slide",
+        "Filename": "D:\\Eowyn_Data\\20210305_NE_mockData2\\20210305_NE_mockData2.mcd",
+        "SlideType": "\"\"",
+        "WidthUm": "75000",
+        "HeightUm": "25000",
+        "ImageEndOffset": "27007",
+        "ImageStartOffset": "166",
+        "ImageFile": "\"\"",
+        "EnergyDb": "0",
+        "Frequency": "200",
+        "FMarkSlideLength": "125000",
+        "FMarkSlideThickness": "12000",
+        "Name": "Empty12AF",
+        "SwVersion": "7.0.8493.0"
+      }
+    ],
+    "Panorama": [
+      {
+        "ID": "1",
+        "SlideID": "0",
+        "Description": "Panorama_001",
+        "SlideY4PosUm": "12626",
+        "SlideX4PosUm": "15136",
+        "SlideY3PosUm": "12626",
+        "SlideX3PosUm": "15449",
+        "SlideY2PosUm": "12880",
+        "SlideX2PosUm": "15449",
+        "SlideY1PosUm": "12880",
+        "SlideX1PosUm": "15136",
+        "ImageEndOffset": "112169",
+        "ImageStartOffset": "27007",
+        "PixelWidth": "0",
+        "PixelHeight": "0",
+        "ImageFormat": "PNG",
+        "PixelScaleCoef": "1",
+        "Type": "Instrument",
+        "IsLocked": "true",
+        "RotationAngle": "0"
+      },
+      {
+        "ID": "2",
+        "SlideID": "0",
+        "Description": "ROIs",
+        "SlideY4PosUm": "25000",
+        "SlideX4PosUm": "0",
+        "SlideY3PosUm": "0",
+        "SlideX3PosUm": "0",
+        "SlideY2PosUm": "0",
+        "SlideX2PosUm": "75000",
+        "SlideY1PosUm": "0",
+        "SlideX1PosUm": "0",
+        "ImageEndOffset": "0",
+        "ImageStartOffset": "0",
+        "PixelWidth": "0",
+        "PixelHeight": "0",
+        "ImageFormat": "PNG",
+        "PixelScaleCoef": "1",
+        "Type": "Default",
+        "RotationAngle": "0"
+      }
+    ],
+    "CalibrationFinal": [
+      {
+        "ID": "1",
+        "AcquisitionID": "1",
+        "TimeStamp": "2021-03-05T14:33:56.1162202+01:00",
+        "OptimalDetectorVoltageStart": "-1588.577117776538",
+        "OptimalDetectorVoltageEnd": "-1586.4694342193013",
+        "OptimalDetectorDualCoefficientStart": "0.029932918308618179",
+        "OptimalDetectorDualCoefficientEnd": "0.030279076645651985",
+        "OptimalHelium": "0.26000000000000006",
+        "TransientStart": "1708",
+        "TransientCrossTalk1": "0",
+        "TransientCrossTalk2": "0",
+        "ReferenceEnergy": "1.595387362287422E-09",
+        "MaximumEnergy": "7.5576000000000021E-09"
+      },
+      {
+        "ID": "2",
+        "AcquisitionID": "2",
+        "TimeStamp": "2021-03-05T14:35:29.1390144+01:00",
+        "OptimalDetectorVoltageStart": "-1586.4694342193013",
+        "OptimalDetectorVoltageEnd": "-1586",
+        "OptimalDetectorDualCoefficientStart": "0.030279076645651985",
+        "OptimalDetectorDualCoefficientEnd": "0.029951669117637539",
+        "OptimalHelium": "0.26000000000000006",
+        "TransientStart": "1708",
+        "TransientCrossTalk1": "0",
+        "TransientCrossTalk2": "0",
+        "ReferenceEnergy": "1.595387362287422E-09",
+        "MaximumEnergy": "7.5576000000000021E-09"
+      },
+      {
+        "ID": "3",
+        "AcquisitionID": "3",
+        "TimeStamp": "2021-03-05T14:36:22.7343269+01:00",
+        "OptimalDetectorVoltageStart": "-1586",
+        "OptimalDetectorVoltageEnd": "-1586",
+        "OptimalDetectorDualCoefficientStart": "0.029951669117637539",
+        "OptimalDetectorDualCoefficientEnd": "0.030215840144551306",
+        "OptimalHelium": "0.26000000000000006",
+        "TransientStart": "1708",
+        "TransientCrossTalk1": "0",
+        "TransientCrossTalk2": "0",
+        "ReferenceEnergy": "1.595387362287422E-09",
+        "MaximumEnergy": "7.5576000000000021E-09"
+      }
+    ],
+    "Calibration": [
+      {
+        "ID": "1",
+        "AcquisitionID": "1",
+        "Timestamp": "2021-03-05T12:04:14.4059858+01:00"
+      },
+      {
+        "ID": "2",
+        "AcquisitionID": "2",
+        "Timestamp": "2021-03-05T12:04:14.4059858+01:00"
+      },
+      {
+        "ID": "3",
+        "AcquisitionID": "3",
+        "Timestamp": "2021-03-05T12:04:14.4059858+01:00"
+      }
+    ],
+    "AcquisitionChannel": [
+      {
+        "ID": "0",
+        "ChannelName": "X",
+        "OrderNumber": "0",
+        "AcquisitionID": "1",
+        "ChannelLabel": "X"
+      },
+      {
+        "ID": "1",
+        "ChannelName": "Y",
+        "OrderNumber": "1",
+        "AcquisitionID": "1",
+        "ChannelLabel": "Y"
+      },
+      {
+        "ID": "2",
+        "ChannelName": "Z",
+        "OrderNumber": "2",
+        "AcquisitionID": "1",
+        "ChannelLabel": "Z"
+      },
+      {
+        "ID": "3",
+        "ChannelName": "Ag(107)",
+        "OrderNumber": "3",
+        "AcquisitionID": "1",
+        "ChannelLabel": "107Ag"
+      },
+      {
+        "ID": "4",
+        "ChannelName": "Pr(141)",
+        "OrderNumber": "4",
+        "AcquisitionID": "1",
+        "ChannelLabel": "Cytoker_651((3356))Pr141"
+      },
+      {
+        "ID": "5",
+        "ChannelName": "Sm(147)",
+        "OrderNumber": "5",
+        "AcquisitionID": "1",
+        "ChannelLabel": "Laminin_681((851))Sm147"
+      },
+      {
+        "ID": "6",
+        "ChannelName": "Eu(153)",
+        "OrderNumber": "6",
+        "AcquisitionID": "1",
+        "ChannelLabel": "YBX1_2987((3532))Eu153"
+      },
+      {
+        "ID": "7",
+        "ChannelName": "Yb(172)",
+        "OrderNumber": "7",
+        "AcquisitionID": "1",
+        "ChannelLabel": "H3K27Ac_1977((2242))Yb172"
+      },
+      {
+        "ID": "8",
+        "ChannelName": "X",
+        "OrderNumber": "0",
+        "AcquisitionID": "2",
+        "ChannelLabel": "X"
+      },
+      {
+        "ID": "9",
+        "ChannelName": "Y",
+        "OrderNumber": "1",
+        "AcquisitionID": "2",
+        "ChannelLabel": "Y"
+      },
+      {
+        "ID": "10",
+        "ChannelName": "Z",
+        "OrderNumber": "2",
+        "AcquisitionID": "2",
+        "ChannelLabel": "Z"
+      },
+      {
+        "ID": "11",
+        "ChannelName": "Ag(107)",
+        "OrderNumber": "3",
+        "AcquisitionID": "2",
+        "ChannelLabel": "107Ag"
+      },
+      {
+        "ID": "12",
+        "ChannelName": "Pr(141)",
+        "OrderNumber": "4",
+        "AcquisitionID": "2",
+        "ChannelLabel": "Cytoker_651((3356))Pr141"
+      },
+      {
+        "ID": "13",
+        "ChannelName": "Sm(147)",
+        "OrderNumber": "5",
+        "AcquisitionID": "2",
+        "ChannelLabel": "Laminin_681((851))Sm147"
+      },
+      {
+        "ID": "14",
+        "ChannelName": "Eu(153)",
+        "OrderNumber": "6",
+        "AcquisitionID": "2",
+        "ChannelLabel": "YBX1_2987((3532))Eu153"
+      },
+      {
+        "ID": "15",
+        "ChannelName": "Yb(172)",
+        "OrderNumber": "7",
+        "AcquisitionID": "2",
+        "ChannelLabel": "H3K27Ac_1977((2242))Yb172"
+      },
+      {
+        "ID": "16",
+        "ChannelName": "X",
+        "OrderNumber": "0",
+        "AcquisitionID": "3",
+        "ChannelLabel": "X"
+      },
+      {
+        "ID": "17",
+        "ChannelName": "Y",
+        "OrderNumber": "1",
+        "AcquisitionID": "3",
+        "ChannelLabel": "Y"
+      },
+      {
+        "ID": "18",
+        "ChannelName": "Z",
+        "OrderNumber": "2",
+        "AcquisitionID": "3",
+        "ChannelLabel": "Z"
+      },
+      {
+        "ID": "19",
+        "ChannelName": "Ag(107)",
+        "OrderNumber": "3",
+        "AcquisitionID": "3",
+        "ChannelLabel": "107Ag"
+      },
+      {
+        "ID": "20",
+        "ChannelName": "Pr(141)",
+        "OrderNumber": "4",
+        "AcquisitionID": "3",
+        "ChannelLabel": "Cytoker_651((3356))Pr141"
+      },
+      {
+        "ID": "21",
+        "ChannelName": "Sm(147)",
+        "OrderNumber": "5",
+        "AcquisitionID": "3",
+        "ChannelLabel": "Laminin_681((851))Sm147"
+      },
+      {
+        "ID": "22",
+        "ChannelName": "Eu(153)",
+        "OrderNumber": "6",
+        "AcquisitionID": "3",
+        "ChannelLabel": "YBX1_2987((3532))Eu153"
+      },
+      {
+        "ID": "23",
+        "ChannelName": "Yb(172)",
+        "OrderNumber": "7",
+        "AcquisitionID": "3",
+        "ChannelLabel": "H3K27Ac_1977((2242))Yb172"
+      }
+    ],
+    "Acquisition": [
+      {
+        "ID": "1",
+        "Description": "ROI_001",
+        "AblationPower": "5",
+        "AblationDistanceBetweenShotsX": "1",
+        "AblationDistanceBetweenShotsY": "1",
+        "AblationFrequency": "200",
+        "AcquisitionROIID": "1",
+        "OrderNumber": "0",
+        "SignalType": "Dual",
+        "DualCountStart": "1",
+        "DataStartOffset": "112169",
+        "DataEndOffset": "398921",
+        "StartTimeStamp": "2021-03-05T14:34:09.4425282+01:00",
+        "EndTimeStamp": "2021-03-05T14:35:29.0332966+01:00",
+        "AfterAblationImageEndOffset": "0",
+        "AfterAblationImageStartOffset": "0",
+        "BeforeAblationImageEndOffset": "0",
+        "BeforeAblationImageStartOffset": "0",
+        "ROIStartXPosUm": "15242000",
+        "ROIStartYPosUm": "12800000",
+        "ROIEndXPosUm": "15345.5",
+        "ROIEndYPosUm": "12714.39",
+        "MovementType": "XRaster",
+        "SegmentDataFormat": "Float",
+        "ValueBytes": "4",
+        "MaxY": "87",
+        "MaxX": "103",
+        "PlumeStart": "1708",
+        "PlumeEnd": "2092",
+        "Template": "mock_panel",
+        "ProfilingType": "Global"
+      },
+      {
+        "ID": "2",
+        "Description": "ROI_002",
+        "AblationPower": "5",
+        "AblationDistanceBetweenShotsX": "1",
+        "AblationDistanceBetweenShotsY": "1",
+        "AblationFrequency": "200",
+        "AcquisitionROIID": "2",
+        "OrderNumber": "0",
+        "SignalType": "Dual",
+        "DualCountStart": "1",
+        "DataStartOffset": "398921",
+        "DataEndOffset": "514089",
+        "StartTimeStamp": "2021-03-05T14:35:38.2243943+01:00",
+        "EndTimeStamp": "2021-03-05T14:36:22.6286094+01:00",
+        "AfterAblationImageEndOffset": "0",
+        "AfterAblationImageStartOffset": "0",
+        "BeforeAblationImageEndOffset": "0",
+        "BeforeAblationImageStartOffset": "0",
+        "ROIStartXPosUm": "15694000",
+        "ROIStartYPosUm": "13247000",
+        "ROIEndXPosUm": "15753.496",
+        "ROIEndYPosUm": "13187.277",
+        "MovementType": "XRaster",
+        "SegmentDataFormat": "Float",
+        "ValueBytes": "4",
+        "MaxY": "61",
+        "MaxX": "59",
+        "PlumeStart": "1708",
+        "PlumeEnd": "2092",
+        "Template": "mock_panel",
+        "ProfilingType": "Global"
+      },
+      {
+        "ID": "3",
+        "Description": "ROI_003",
+        "AblationPower": "5",
+        "AblationDistanceBetweenShotsX": "1",
+        "AblationDistanceBetweenShotsY": "1",
+        "AblationFrequency": "200",
+        "AcquisitionROIID": "3",
+        "OrderNumber": "0",
+        "SignalType": "Dual",
+        "DualCountStart": "1",
+        "DataStartOffset": "514089",
+        "DataEndOffset": "605673",
+        "StartTimeStamp": "2021-03-05T14:36:31.8506434+01:00",
+        "EndTimeStamp": "2021-03-05T14:37:10.8595289+01:00",
+        "AfterAblationImageEndOffset": "0",
+        "AfterAblationImageStartOffset": "0",
+        "BeforeAblationImageEndOffset": "0",
+        "BeforeAblationImageStartOffset": "0",
+        "ROIStartXPosUm": "15919000",
+        "ROIStartYPosUm": "13292000",
+        "ROIEndXPosUm": "15972.503",
+        "ROIEndYPosUm": "13239.251",
+        "MovementType": "XRaster",
+        "SegmentDataFormat": "Float",
+        "ValueBytes": "4",
+        "MaxY": "54",
+        "MaxX": "53",
+        "PlumeStart": "1708",
+        "PlumeEnd": "2092",
+        "Template": "mock_panel",
+        "ProfilingType": "Global"
+      }
+    ],
+    "AcquisitionROI": [
+      {
+        "ID": "1",
+        "Description": "ROI_001",
+        "PanoramaID": "2",
+        "ROIType": null
+      },
+      {
+        "ID": "2",
+        "Description": "ROI_002",
+        "PanoramaID": "2",
+        "ROIType": null
+      },
+      {
+        "ID": "3",
+        "Description": "ROI_003",
+        "PanoramaID": "2",
+        "ROIType": null
+      }
+    ],
+    "ROIPoint": [
+      {
+        "ID": "1",
+        "AcquisitionROIID": "1",
+        "OrderNumber": "0",
+        "SlideXPosUm": "15242",
+        "SlideYPosUm": "12800",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "2",
+        "AcquisitionROIID": "1",
+        "OrderNumber": "1",
+        "SlideXPosUm": "15345",
+        "SlideYPosUm": "12800",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "3",
+        "AcquisitionROIID": "1",
+        "OrderNumber": "2",
+        "SlideXPosUm": "15345",
+        "SlideYPosUm": "12713",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "4",
+        "AcquisitionROIID": "1",
+        "OrderNumber": "3",
+        "SlideXPosUm": "15242",
+        "SlideYPosUm": "12713",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "5",
+        "AcquisitionROIID": "2",
+        "OrderNumber": "0",
+        "SlideXPosUm": "15694",
+        "SlideYPosUm": "13247",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "6",
+        "AcquisitionROIID": "2",
+        "OrderNumber": "1",
+        "SlideXPosUm": "15753",
+        "SlideYPosUm": "13247",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "7",
+        "AcquisitionROIID": "2",
+        "OrderNumber": "2",
+        "SlideXPosUm": "15753",
+        "SlideYPosUm": "13186",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "8",
+        "AcquisitionROIID": "2",
+        "OrderNumber": "3",
+        "SlideXPosUm": "15694",
+        "SlideYPosUm": "13186",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "9",
+        "AcquisitionROIID": "3",
+        "OrderNumber": "0",
+        "SlideXPosUm": "15919",
+        "SlideYPosUm": "13292",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "10",
+        "AcquisitionROIID": "3",
+        "OrderNumber": "1",
+        "SlideXPosUm": "15972",
+        "SlideYPosUm": "13292",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "11",
+        "AcquisitionROIID": "3",
+        "OrderNumber": "2",
+        "SlideXPosUm": "15972",
+        "SlideYPosUm": "13238",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      },
+      {
+        "ID": "12",
+        "AcquisitionROIID": "3",
+        "OrderNumber": "3",
+        "SlideXPosUm": "15919",
+        "SlideYPosUm": "13238",
+        "PanoramaPixelXPos": "1",
+        "PanoramaPixelYPos": "1"
+      }
+    ],
+    "CalibrationParams": [
+      {
+        "CalibrationID": "1",
+        "OptimalDetectorVoltage": "-1595.8239838448235",
+        "OptimalDetectorDualCoefficient": "0.029881041661743817",
+        "OptimalMakeupGas": "0.90000000000000013",
+        "OptimalCurrent": "5",
+        "OptimalX": "52000",
+        "OptimalY": "48000",
+        "TransientStart": "1708",
+        "TransientCrossTalk1": "0.019550766795873642",
+        "TransientCrossTalk2": "0.008100082166492939",
+        "OptimalHelium": "0.26000000000000006"
+      },
+      {
+        "CalibrationID": "2",
+        "OptimalDetectorVoltage": "-1595.8239838448235",
+        "OptimalDetectorDualCoefficient": "0.029881041661743817",
+        "OptimalMakeupGas": "0.90000000000000013",
+        "OptimalCurrent": "5",
+        "OptimalX": "52000",
+        "OptimalY": "48000",
+        "TransientStart": "1708",
+        "TransientCrossTalk1": "0.019550766795873642",
+        "TransientCrossTalk2": "0.008100082166492939",
+        "OptimalHelium": "0.26000000000000006"
+      },
+      {
+        "CalibrationID": "3",
+        "OptimalDetectorVoltage": "-1595.8239838448235",
+        "OptimalDetectorDualCoefficient": "0.029881041661743817",
+        "OptimalMakeupGas": "0.90000000000000013",
+        "OptimalCurrent": "5",
+        "OptimalX": "52000",
+        "OptimalY": "48000",
+        "TransientStart": "1708",
+        "TransientCrossTalk1": "0.019550766795873642",
+        "TransientCrossTalk2": "0.008100082166492939",
+        "OptimalHelium": "0.26000000000000006"
+      }
+    ],
+    "CalibrationChannel": [
+      {
+        "CalibrationID": "1",
+        "Name": "ArAr(80)",
+        "MeanDuals": "63280.57909660021",
+        "ID": "1"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Y(89)",
+        "MeanDuals": "120.51914113967432",
+        "ID": "2"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "In(115)",
+        "MeanDuals": "0.12",
+        "ID": "3"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "I(127)",
+        "MeanDuals": "59.649189384947995",
+        "ID": "4"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Xe(131)",
+        "MeanDuals": "552.86775872494832",
+        "ID": "5"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Xe(134)",
+        "MeanDuals": "263.1677991387993",
+        "ID": "6"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Ba(138)",
+        "MeanDuals": "1.2902019896104071",
+        "ID": "7"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Ce(140)",
+        "MeanDuals": "133.61278046733844",
+        "ID": "8"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Eu(151)",
+        "MeanDuals": "0.18",
+        "ID": "9"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Eu(153)",
+        "MeanDuals": "0.17",
+        "ID": "10"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Lu(175)",
+        "MeanDuals": "646.03310653059179",
+        "ID": "11"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Os(189)",
+        "MeanDuals": "0.14",
+        "ID": "12"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Hg(200)",
+        "MeanDuals": "9.39512036608136",
+        "ID": "13"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Hg(202)",
+        "MeanDuals": "11.654009907917212",
+        "ID": "14"
+      },
+      {
+        "CalibrationID": "1",
+        "Name": "Pb(208)",
+        "MeanDuals": "26.17064022472389",
+        "ID": "15"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "ArAr(80)",
+        "MeanDuals": "63280.57909660021",
+        "ID": "16"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Y(89)",
+        "MeanDuals": "120.51914113967432",
+        "ID": "17"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "In(115)",
+        "MeanDuals": "0.12",
+        "ID": "18"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "I(127)",
+        "MeanDuals": "59.649189384947995",
+        "ID": "19"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Xe(131)",
+        "MeanDuals": "552.86775872494832",
+        "ID": "20"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Xe(134)",
+        "MeanDuals": "263.1677991387993",
+        "ID": "21"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Ba(138)",
+        "MeanDuals": "1.2902019896104071",
+        "ID": "22"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Ce(140)",
+        "MeanDuals": "133.61278046733844",
+        "ID": "23"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Eu(151)",
+        "MeanDuals": "0.18",
+        "ID": "24"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Eu(153)",
+        "MeanDuals": "0.17",
+        "ID": "25"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Lu(175)",
+        "MeanDuals": "646.03310653059179",
+        "ID": "26"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Os(189)",
+        "MeanDuals": "0.14",
+        "ID": "27"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Hg(200)",
+        "MeanDuals": "9.39512036608136",
+        "ID": "28"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Hg(202)",
+        "MeanDuals": "11.654009907917212",
+        "ID": "29"
+      },
+      {
+        "CalibrationID": "2",
+        "Name": "Pb(208)",
+        "MeanDuals": "26.17064022472389",
+        "ID": "30"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "ArAr(80)",
+        "MeanDuals": "63280.57909660021",
+        "ID": "31"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Y(89)",
+        "MeanDuals": "120.51914113967432",
+        "ID": "32"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "In(115)",
+        "MeanDuals": "0.12",
+        "ID": "33"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "I(127)",
+        "MeanDuals": "59.649189384947995",
+        "ID": "34"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Xe(131)",
+        "MeanDuals": "552.86775872494832",
+        "ID": "35"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Xe(134)",
+        "MeanDuals": "263.1677991387993",
+        "ID": "36"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Ba(138)",
+        "MeanDuals": "1.2902019896104071",
+        "ID": "37"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Ce(140)",
+        "MeanDuals": "133.61278046733844",
+        "ID": "38"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Eu(151)",
+        "MeanDuals": "0.18",
+        "ID": "39"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Eu(153)",
+        "MeanDuals": "0.17",
+        "ID": "40"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Lu(175)",
+        "MeanDuals": "646.03310653059179",
+        "ID": "41"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Os(189)",
+        "MeanDuals": "0.14",
+        "ID": "42"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Hg(200)",
+        "MeanDuals": "9.39512036608136",
+        "ID": "43"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Hg(202)",
+        "MeanDuals": "11.654009907917212",
+        "ID": "44"
+      },
+      {
+        "CalibrationID": "3",
+        "Name": "Pb(208)",
+        "MeanDuals": "26.17064022472389",
+        "ID": "45"
+      }
+    ],
+    "SlideFiducialMarks": [
+      {
+        "ID": "1",
+        "SlideID": "0",
+        "CoordinateX": "6162500",
+        "CoordinateY": "19862500"
+      },
+      {
+        "ID": "2",
+        "SlideID": "0",
+        "CoordinateX": "6162500",
+        "CoordinateY": "7162500"
+      },
+      {
+        "ID": "3",
+        "SlideID": "0",
+        "CoordinateX": "49162500",
+        "CoordinateY": "19862500"
+      },
+      {
+        "ID": "4",
+        "SlideID": "0",
+        "CoordinateX": "49162500",
+        "CoordinateY": "7162500"
+      }
+    ],
+    "SlideProfile": [
+      {
+        "ID": "1",
+        "SlideID": "0",
+        "CoordinateX": "10000000",
+        "CoordinateY": "19000000"
+      },
+      {
+        "ID": "2",
+        "SlideID": "0",
+        "CoordinateX": "22000000",
+        "CoordinateY": "19000000"
+      },
+      {
+        "ID": "3",
+        "SlideID": "0",
+        "CoordinateX": "36000000",
+        "CoordinateY": "19000000"
+      },
+      {
+        "ID": "4",
+        "SlideID": "0",
+        "CoordinateX": "50000000",
+        "CoordinateY": "19000000"
+      },
+      {
+        "ID": "5",
+        "SlideID": "0",
+        "CoordinateX": "10000000",
+        "CoordinateY": "13000000"
+      },
+      {
+        "ID": "6",
+        "SlideID": "0",
+        "CoordinateX": "22000000",
+        "CoordinateY": "13000000"
+      },
+      {
+        "ID": "7",
+        "SlideID": "0",
+        "CoordinateX": "36000000",
+        "CoordinateY": "13000000"
+      },
+      {
+        "ID": "8",
+        "SlideID": "0",
+        "CoordinateX": "50000000",
+        "CoordinateY": "13000000"
+      },
+      {
+        "ID": "9",
+        "SlideID": "0",
+        "CoordinateX": "10000000",
+        "CoordinateY": "7000000"
+      },
+      {
+        "ID": "10",
+        "SlideID": "0",
+        "CoordinateX": "22000000",
+        "CoordinateY": "7000000"
+      },
+      {
+        "ID": "11",
+        "SlideID": "0",
+        "CoordinateX": "36000000",
+        "CoordinateY": "7000000"
+      },
+      {
+        "ID": "12",
+        "SlideID": "0",
+        "CoordinateX": "50000000",
+        "CoordinateY": "7000000"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "session_id": "10258c2f-0026-4281-a7de-f5c3cf6c9d3c",
+      "id": 0,
+      "description": "Slide",
+      "width_um": 75000,
+      "height_um": 25000,
+      "has_slide_image": true,
+      "metadata": {
+        "ID": "0",
+        "Description": "Slide",
+        "Filename": "D:\\Eowyn_Data\\20210305_NE_mockData2\\20210305_NE_mockData2.mcd",
+        "SlideType": "\"\"",
+        "WidthUm": "75000",
+        "HeightUm": "25000",
+        "ImageEndOffset": "27007",
+        "ImageStartOffset": "166",
+        "ImageFile": "\"\"",
+        "EnergyDb": "0",
+        "Frequency": "200",
+        "FMarkSlideLength": "125000",
+        "FMarkSlideThickness": "12000",
+        "Name": "Empty12AF",
+        "SwVersion": "7.0.8493.0"
+      }
+    }
+  ],
+  "acquisitions": [
+    {
+      "slide_id": 0,
+      "id": 1,
+      "origin": "mcd",
+      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmpf5faqeev/20210305_NE_mockData2/20210305_NE_mockData2.mcd",
+      "max_x": 103,
+      "max_y": 87,
+      "signal_type": "Dual",
+      "segment_data_format": "Float",
+      "ablation_frequency": 200.0,
+      "ablation_power": 5.0,
+      "start_timestamp": "2021-03-05T14:34:09.442528+01:00",
+      "end_timestamp": "2021-03-05T14:35:29.033296+01:00",
+      "movement_type": "XRaster",
+      "ablation_distance_between_shots_x": 1.0,
+      "ablation_distance_between_shots_y": 1.0,
+      "template": "mock_panel",
+      "roi_start_x_pos_um": 15242.0,
+      "roi_start_y_pos_um": 12800.0,
+      "roi_end_x_pos_um": 15345.5,
+      "roi_end_y_pos_um": 12714.39,
+      "description": "ROI_001",
+      "has_before_ablation_image": false,
+      "has_after_ablation_image": false,
+      "metadata": {
+        "ID": "1",
+        "Description": "ROI_001",
+        "AblationPower": "5",
+        "AblationDistanceBetweenShotsX": "1",
+        "AblationDistanceBetweenShotsY": "1",
+        "AblationFrequency": "200",
+        "AcquisitionROIID": "1",
+        "OrderNumber": "0",
+        "SignalType": "Dual",
+        "DualCountStart": "1",
+        "DataStartOffset": "112169",
+        "DataEndOffset": "398921",
+        "StartTimeStamp": "2021-03-05T14:34:09.4425282+01:00",
+        "EndTimeStamp": "2021-03-05T14:35:29.0332966+01:00",
+        "AfterAblationImageEndOffset": "0",
+        "AfterAblationImageStartOffset": "0",
+        "BeforeAblationImageEndOffset": "0",
+        "BeforeAblationImageStartOffset": "0",
+        "ROIStartXPosUm": "15242000",
+        "ROIStartYPosUm": "12800000",
+        "ROIEndXPosUm": "15345.5",
+        "ROIEndYPosUm": "12714.39",
+        "MovementType": "XRaster",
+        "SegmentDataFormat": "Float",
+        "ValueBytes": "4",
+        "MaxY": "87",
+        "MaxX": "103",
+        "PlumeStart": "1708",
+        "PlumeEnd": "2092",
+        "Template": "mock_panel",
+        "ProfilingType": "Global"
+      },
+      "is_valid": true
+    },
+    {
+      "slide_id": 0,
+      "id": 2,
+      "origin": "mcd",
+      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmpf5faqeev/20210305_NE_mockData2/20210305_NE_mockData2.mcd",
+      "max_x": 59,
+      "max_y": 61,
+      "signal_type": "Dual",
+      "segment_data_format": "Float",
+      "ablation_frequency": 200.0,
+      "ablation_power": 5.0,
+      "start_timestamp": "2021-03-05T14:35:38.224394+01:00",
+      "end_timestamp": "2021-03-05T14:36:22.628609+01:00",
+      "movement_type": "XRaster",
+      "ablation_distance_between_shots_x": 1.0,
+      "ablation_distance_between_shots_y": 1.0,
+      "template": "mock_panel",
+      "roi_start_x_pos_um": 15694.0,
+      "roi_start_y_pos_um": 13247.0,
+      "roi_end_x_pos_um": 15753.496,
+      "roi_end_y_pos_um": 13187.277,
+      "description": "ROI_002",
+      "has_before_ablation_image": false,
+      "has_after_ablation_image": false,
+      "metadata": {
+        "ID": "2",
+        "Description": "ROI_002",
+        "AblationPower": "5",
+        "AblationDistanceBetweenShotsX": "1",
+        "AblationDistanceBetweenShotsY": "1",
+        "AblationFrequency": "200",
+        "AcquisitionROIID": "2",
+        "OrderNumber": "0",
+        "SignalType": "Dual",
+        "DualCountStart": "1",
+        "DataStartOffset": "398921",
+        "DataEndOffset": "514089",
+        "StartTimeStamp": "2021-03-05T14:35:38.2243943+01:00",
+        "EndTimeStamp": "2021-03-05T14:36:22.6286094+01:00",
+        "AfterAblationImageEndOffset": "0",
+        "AfterAblationImageStartOffset": "0",
+        "BeforeAblationImageEndOffset": "0",
+        "BeforeAblationImageStartOffset": "0",
+        "ROIStartXPosUm": "15694000",
+        "ROIStartYPosUm": "13247000",
+        "ROIEndXPosUm": "15753.496",
+        "ROIEndYPosUm": "13187.277",
+        "MovementType": "XRaster",
+        "SegmentDataFormat": "Float",
+        "ValueBytes": "4",
+        "MaxY": "61",
+        "MaxX": "59",
+        "PlumeStart": "1708",
+        "PlumeEnd": "2092",
+        "Template": "mock_panel",
+        "ProfilingType": "Global"
+      },
+      "is_valid": true
+    },
+    {
+      "slide_id": 0,
+      "id": 3,
+      "origin": "mcd",
+      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmpf5faqeev/20210305_NE_mockData2/20210305_NE_mockData2.mcd",
+      "max_x": 53,
+      "max_y": 54,
+      "signal_type": "Dual",
+      "segment_data_format": "Float",
+      "ablation_frequency": 200.0,
+      "ablation_power": 5.0,
+      "start_timestamp": "2021-03-05T14:36:31.850643+01:00",
+      "end_timestamp": "2021-03-05T14:37:10.859528+01:00",
+      "movement_type": "XRaster",
+      "ablation_distance_between_shots_x": 1.0,
+      "ablation_distance_between_shots_y": 1.0,
+      "template": "mock_panel",
+      "roi_start_x_pos_um": 15919.0,
+      "roi_start_y_pos_um": 13292.0,
+      "roi_end_x_pos_um": 15972.503,
+      "roi_end_y_pos_um": 13239.251,
+      "description": "ROI_003",
+      "has_before_ablation_image": false,
+      "has_after_ablation_image": false,
+      "metadata": {
+        "ID": "3",
+        "Description": "ROI_003",
+        "AblationPower": "5",
+        "AblationDistanceBetweenShotsX": "1",
+        "AblationDistanceBetweenShotsY": "1",
+        "AblationFrequency": "200",
+        "AcquisitionROIID": "3",
+        "OrderNumber": "0",
+        "SignalType": "Dual",
+        "DualCountStart": "1",
+        "DataStartOffset": "514089",
+        "DataEndOffset": "605673",
+        "StartTimeStamp": "2021-03-05T14:36:31.8506434+01:00",
+        "EndTimeStamp": "2021-03-05T14:37:10.8595289+01:00",
+        "AfterAblationImageEndOffset": "0",
+        "AfterAblationImageStartOffset": "0",
+        "BeforeAblationImageEndOffset": "0",
+        "BeforeAblationImageStartOffset": "0",
+        "ROIStartXPosUm": "15919000",
+        "ROIStartYPosUm": "13292000",
+        "ROIEndXPosUm": "15972.503",
+        "ROIEndYPosUm": "13239.251",
+        "MovementType": "XRaster",
+        "SegmentDataFormat": "Float",
+        "ValueBytes": "4",
+        "MaxY": "54",
+        "MaxX": "53",
+        "PlumeStart": "1708",
+        "PlumeEnd": "2092",
+        "Template": "mock_panel",
+        "ProfilingType": "Global"
+      },
+      "is_valid": true
+    }
+  ],
+  "panoramas": [
+    {
+      "slide_id": 0,
+      "id": 1,
+      "image_type": "Instrument",
+      "description": "Panorama_001",
+      "x1": 15136.0,
+      "y1": 12880.0,
+      "x2": 15449.0,
+      "y2": 12880.0,
+      "x3": 15449.0,
+      "y3": 12626.0,
+      "x4": 15136.0,
+      "y4": 12626.0,
+      "rotation_angle": 0.0,
+      "metadata": {
+        "ID": "1",
+        "SlideID": "0",
+        "Description": "Panorama_001",
+        "SlideY4PosUm": "12626",
+        "SlideX4PosUm": "15136",
+        "SlideY3PosUm": "12626",
+        "SlideX3PosUm": "15449",
+        "SlideY2PosUm": "12880",
+        "SlideX2PosUm": "15449",
+        "SlideY1PosUm": "12880",
+        "SlideX1PosUm": "15136",
+        "ImageEndOffset": "112169",
+        "ImageStartOffset": "27007",
+        "PixelWidth": "0",
+        "PixelHeight": "0",
+        "ImageFormat": "PNG",
+        "PixelScaleCoef": "1",
+        "Type": "Instrument",
+        "IsLocked": "true",
+        "RotationAngle": "0"
+      }
+    },
+    {
+      "slide_id": 0,
+      "id": 2,
+      "image_type": "Default",
+      "description": "ROIs",
+      "x1": 0.0,
+      "y1": 0.0,
+      "x2": 75000.0,
+      "y2": 0.0,
+      "x3": 0.0,
+      "y3": 0.0,
+      "x4": 0.0,
+      "y4": 25000.0,
+      "rotation_angle": 0.0,
+      "metadata": {
+        "ID": "2",
+        "SlideID": "0",
+        "Description": "ROIs",
+        "SlideY4PosUm": "25000",
+        "SlideX4PosUm": "0",
+        "SlideY3PosUm": "0",
+        "SlideX3PosUm": "0",
+        "SlideY2PosUm": "0",
+        "SlideX2PosUm": "75000",
+        "SlideY1PosUm": "0",
+        "SlideX1PosUm": "0",
+        "ImageEndOffset": "0",
+        "ImageStartOffset": "0",
+        "PixelWidth": "0",
+        "PixelHeight": "0",
+        "ImageFormat": "PNG",
+        "PixelScaleCoef": "1",
+        "Type": "Default",
+        "RotationAngle": "0"
+      }
+    }
+  ],
+  "channels": [
+    {
+      "acquisition_id": 1,
+      "id": 3,
+      "order_number": 3,
+      "name": "Ag107",
+      "label": "107Ag",
+      "mass": 107,
+      "min_intensity": 0.0,
+      "max_intensity": 7.6018,
+      "metadata": {
+        "ID": "3",
+        "ChannelName": "Ag(107)",
+        "OrderNumber": "3",
+        "AcquisitionID": "1",
+        "ChannelLabel": "107Ag"
+      }
+    },
+    {
+      "acquisition_id": 1,
+      "id": 4,
+      "order_number": 4,
+      "name": "Pr141",
+      "label": "Cytoker_651((3356))Pr141",
+      "mass": 141,
+      "min_intensity": 0.0,
+      "max_intensity": 3.7337,
+      "metadata": {
+        "ID": "4",
+        "ChannelName": "Pr(141)",
+        "OrderNumber": "4",
+        "AcquisitionID": "1",
+        "ChannelLabel": "Cytoker_651((3356))Pr141"
+      }
+    },
+    {
+      "acquisition_id": 1,
+      "id": 5,
+      "order_number": 5,
+      "name": "Sm147",
+      "label": "Laminin_681((851))Sm147",
+      "mass": 147,
+      "min_intensity": 0.0,
+      "max_intensity": 475.9212,
+      "metadata": {
+        "ID": "5",
+        "ChannelName": "Sm(147)",
+        "OrderNumber": "5",
+        "AcquisitionID": "1",
+        "ChannelLabel": "Laminin_681((851))Sm147"
+      }
+    },
+    {
+      "acquisition_id": 1,
+      "id": 6,
+      "order_number": 6,
+      "name": "Eu153",
+      "label": "YBX1_2987((3532))Eu153",
+      "mass": 153,
+      "min_intensity": 0.0,
+      "max_intensity": 98.2596,
+      "metadata": {
+        "ID": "6",
+        "ChannelName": "Eu(153)",
+        "OrderNumber": "6",
+        "AcquisitionID": "1",
+        "ChannelLabel": "YBX1_2987((3532))Eu153"
+      }
+    },
+    {
+      "acquisition_id": 1,
+      "id": 7,
+      "order_number": 7,
+      "name": "Yb172",
+      "label": "H3K27Ac_1977((2242))Yb172",
+      "mass": 172,
+      "min_intensity": 0.0,
+      "max_intensity": 51.0964,
+      "metadata": {
+        "ID": "7",
+        "ChannelName": "Yb(172)",
+        "OrderNumber": "7",
+        "AcquisitionID": "1",
+        "ChannelLabel": "H3K27Ac_1977((2242))Yb172"
+      }
+    },
+    {
+      "acquisition_id": 2,
+      "id": 11,
+      "order_number": 3,
+      "name": "Ag107",
+      "label": "107Ag",
+      "mass": 107,
+      "min_intensity": 0.0,
+      "max_intensity": 4.5034,
+      "metadata": {
+        "ID": "11",
+        "ChannelName": "Ag(107)",
+        "OrderNumber": "3",
+        "AcquisitionID": "2",
+        "ChannelLabel": "107Ag"
+      }
+    },
+    {
+      "acquisition_id": 2,
+      "id": 12,
+      "order_number": 4,
+      "name": "Pr141",
+      "label": "Cytoker_651((3356))Pr141",
+      "mass": 141,
+      "min_intensity": 0.0,
+      "max_intensity": 2.0,
+      "metadata": {
+        "ID": "12",
+        "ChannelName": "Pr(141)",
+        "OrderNumber": "4",
+        "AcquisitionID": "2",
+        "ChannelLabel": "Cytoker_651((3356))Pr141"
+      }
+    },
+    {
+      "acquisition_id": 2,
+      "id": 13,
+      "order_number": 5,
+      "name": "Sm147",
+      "label": "Laminin_681((851))Sm147",
+      "mass": 147,
+      "min_intensity": 0.0,
+      "max_intensity": 116.5512,
+      "metadata": {
+        "ID": "13",
+        "ChannelName": "Sm(147)",
+        "OrderNumber": "5",
+        "AcquisitionID": "2",
+        "ChannelLabel": "Laminin_681((851))Sm147"
+      }
+    },
+    {
+      "acquisition_id": 2,
+      "id": 14,
+      "order_number": 6,
+      "name": "Eu153",
+      "label": "YBX1_2987((3532))Eu153",
+      "mass": 153,
+      "min_intensity": 0.0,
+      "max_intensity": 67.7122,
+      "metadata": {
+        "ID": "14",
+        "ChannelName": "Eu(153)",
+        "OrderNumber": "6",
+        "AcquisitionID": "2",
+        "ChannelLabel": "YBX1_2987((3532))Eu153"
+      }
+    },
+    {
+      "acquisition_id": 2,
+      "id": 15,
+      "order_number": 7,
+      "name": "Yb172",
+      "label": "H3K27Ac_1977((2242))Yb172",
+      "mass": 172,
+      "min_intensity": 0.0,
+      "max_intensity": 84.4839,
+      "metadata": {
+        "ID": "15",
+        "ChannelName": "Yb(172)",
+        "OrderNumber": "7",
+        "AcquisitionID": "2",
+        "ChannelLabel": "H3K27Ac_1977((2242))Yb172"
+      }
+    },
+    {
+      "acquisition_id": 3,
+      "id": 19,
+      "order_number": 3,
+      "name": "Ag107",
+      "label": "107Ag",
+      "mass": 107,
+      "min_intensity": 0.0,
+      "max_intensity": 5.2848,
+      "metadata": {
+        "ID": "19",
+        "ChannelName": "Ag(107)",
+        "OrderNumber": "3",
+        "AcquisitionID": "3",
+        "ChannelLabel": "107Ag"
+      }
+    },
+    {
+      "acquisition_id": 3,
+      "id": 20,
+      "order_number": 4,
+      "name": "Pr141",
+      "label": "Cytoker_651((3356))Pr141",
+      "mass": 141,
+      "min_intensity": 0.0,
+      "max_intensity": 2.7324,
+      "metadata": {
+        "ID": "20",
+        "ChannelName": "Pr(141)",
+        "OrderNumber": "4",
+        "AcquisitionID": "3",
+        "ChannelLabel": "Cytoker_651((3356))Pr141"
+      }
+    },
+    {
+      "acquisition_id": 3,
+      "id": 21,
+      "order_number": 5,
+      "name": "Sm147",
+      "label": "Laminin_681((851))Sm147",
+      "mass": 147,
+      "min_intensity": 0.0,
+      "max_intensity": 85.1307,
+      "metadata": {
+        "ID": "21",
+        "ChannelName": "Sm(147)",
+        "OrderNumber": "5",
+        "AcquisitionID": "3",
+        "ChannelLabel": "Laminin_681((851))Sm147"
+      }
+    },
+    {
+      "acquisition_id": 3,
+      "id": 22,
+      "order_number": 6,
+      "name": "Eu153",
+      "label": "YBX1_2987((3532))Eu153",
+      "mass": 153,
+      "min_intensity": 0.0,
+      "max_intensity": 68.7487,
+      "metadata": {
+        "ID": "22",
+        "ChannelName": "Eu(153)",
+        "OrderNumber": "6",
+        "AcquisitionID": "3",
+        "ChannelLabel": "YBX1_2987((3532))Eu153"
+      }
+    },
+    {
+      "acquisition_id": 3,
+      "id": 23,
+      "order_number": 7,
+      "name": "Yb172",
+      "label": "H3K27Ac_1977((2242))Yb172",
+      "mass": 172,
+      "min_intensity": 0.0,
+      "max_intensity": 55.2975,
+      "metadata": {
+        "ID": "23",
+        "ChannelName": "Yb(172)",
+        "OrderNumber": "7",
+        "AcquisitionID": "3",
+        "ChannelLabel": "H3K27Ac_1977((2242))Yb172"
+      }
+    }
+  ]
+}
