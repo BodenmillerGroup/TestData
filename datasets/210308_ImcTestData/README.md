@@ -1,4 +1,4 @@
-## IMC mock dataset
+# IMC mock dataset
 
 This dataset was generated on 05.03.2021 using CyTOF Software 7.0 for Imaging Mass Cytometry.
 

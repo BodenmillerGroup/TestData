@@ -1,0 +1,24 @@
+name: assets
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        runs: |
+          mkdir assets
+          tar -cvf assets/210308_ImcTestData_analysis_cpout.tar.gz datasets/210308_ImcTestData/analysis/cpout/*
+          tar -cvf assets/210308_ImcTestData_analysis_cpout_images.tar.gz datasets/210308_ImcTestData/analysis/cpout/images/*
+          tar -cvf assets/210308_ImcTestData_analysis_cpout_masks.tar.gz datasets/210308_ImcTestData/analysis/cpout/masks/*
+          tar -cvf assets/210308_ImcTestData_raw.tar.gz datasets/210308_ImcTestData/raw/*
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: assets/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
