@@ -15,6 +15,7 @@ jobs:
           tar -cvf assets/210308_ImcTestData_analysis_cpout.tar.gz datasets/210308_ImcTestData/analysis/cpout/*
           tar -cvf assets/210308_ImcTestData_analysis_cpout_images.tar.gz datasets/210308_ImcTestData/analysis/cpout/images/*
           tar -cvf assets/210308_ImcTestData_analysis_cpout_masks.tar.gz datasets/210308_ImcTestData/analysis/cpout/masks/*
+          tar -cvf assets/210308_ImcTestData_analysis_ometiff.tar.gz datasets/210308_ImcTestData/analysis/ometiff/*
           tar -cvf assets/210308_ImcTestData_raw.tar.gz datasets/210308_ImcTestData/raw/*
       - name: Release
         uses: softprops/action-gh-release@v1
