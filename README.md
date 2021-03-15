@@ -21,4 +21,4 @@ If you have more datasets to add, please fork this repository, add your dataset 
 
 ## License
 
-[MIT](LICENSE)
+[CC-BY-4.0](LICENSE)
