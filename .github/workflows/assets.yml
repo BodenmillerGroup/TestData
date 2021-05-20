@@ -12,6 +12,7 @@ jobs:
       - name: Build
         run: |
           mkdir assets
+          tar -cvf assets/210308_ImcTestData_steinbock.tar.gz datasets/210308_ImcTestData/steinbock/*
           tar -cvf assets/210308_ImcTestData_analysis_cpout.tar.gz datasets/210308_ImcTestData/analysis/cpout/*
           tar -cvf assets/210308_ImcTestData_analysis_cpout_images.tar.gz datasets/210308_ImcTestData/analysis/cpout/images/*
           tar -cvf assets/210308_ImcTestData_analysis_cpout_masks.tar.gz datasets/210308_ImcTestData/analysis/cpout/masks/*
