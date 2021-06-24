@@ -1,8 +1,8 @@
 {
-  "id": "a7da950b-4f81-4c6a-a73c-655aaa923aa2",
+  "id": "5de127f1-c32d-4949-b9af-a8aa15b9345a",
   "name": "20210305_NE_mockData5",
-  "imctools_version": "2.1.4",
-  "created": "2021-03-12T10:10:26.058524+00:00",
+  "imctools_version": "2.1.7",
+  "created": "2021-06-22T11:06:04.077311+00:00",
   "metadata": {
     "Slide": [
       {
@@ -949,7 +949,7 @@
   },
   "slides": [
     {
-      "session_id": "a7da950b-4f81-4c6a-a73c-655aaa923aa2",
+      "session_id": "5de127f1-c32d-4949-b9af-a8aa15b9345a",
       "id": 0,
       "description": "Slide",
       "width_um": 75000,
@@ -979,7 +979,7 @@
       "slide_id": 0,
       "id": 1,
       "origin": "mcd",
-      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmpi4236f6n/20210305_NE_mockData5/20210305_NE_mockData5.mcd",
+      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmp4h3xs0x6/20210305_NE_mockData5/20210305_NE_mockData5.mcd",
       "max_x": 57,
       "max_y": 49,
       "signal_type": "Dual",
@@ -1038,7 +1038,7 @@
       "slide_id": 0,
       "id": 2,
       "origin": "mcd",
-      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmpi4236f6n/20210305_NE_mockData5/20210305_NE_mockData5.mcd",
+      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmp4h3xs0x6/20210305_NE_mockData5/20210305_NE_mockData5.mcd",
       "max_x": 93,
       "max_y": 69,
       "signal_type": "Dual",
@@ -1097,7 +1097,7 @@
       "slide_id": 0,
       "id": 3,
       "origin": "mcd",
-      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmpi4236f6n/20210305_NE_mockData5/20210305_NE_mockData5.mcd",
+      "source_path": "/var/folders/3w/z5mkrqr93bdbqwb4r4qgn2jc0000gp/T/tmp4h3xs0x6/20210305_NE_mockData5/20210305_NE_mockData5.mcd",
       "max_x": 91,
       "max_y": 81,
       "signal_type": "Dual",
