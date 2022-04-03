@@ -21,8 +21,8 @@ The panel for this dataset looks as follows:
 
 ## Processing
 
-The raw data was processed using CellProfiler v4.0.7 and Ilastik v1.3.3post3.
-For this, `ImcSegmentationPipeline` v2.0 was used. 
+The raw data was processed using CellProfiler v4.2.1 and Ilastik v1.3.3post3.
+For this, `ImcSegmentationPipeline` v3.1 was used. 
 
 ## Known issues
 
